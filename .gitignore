@@ -1,0 +1,7 @@
+SocketClient/target/
+SocketClient/.idea/
+
+SocketServer/target/
+SocketServer/.idea/
+
+.idea/

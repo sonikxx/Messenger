@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>edu.school21.sockets</groupId>
+  <groupId>edu.sockets</groupId>
   <artifactId>socket-client</artifactId>
   <version>1.0</version>
 
@@ -38,7 +38,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>edu.school21.sockets.app.Main</mainClass>
+              <mainClass>edu.sockets.app.Main</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
